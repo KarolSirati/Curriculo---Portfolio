@@ -1,0 +1,44 @@
+header{
+    height: 100px;
+    padding: 0% 20%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 16px;
+}
+
+.logo{
+    display: flex;
+    align-items: center;
+}
+
+.logo-img{
+    height: 50px;
+}
+
+.menu-list{
+    display: none;
+}
+ 
+
+@media (min-width: 1024px){
+    header{
+        padding: 1% 0%
+    }
+
+    .logo{
+        font-size: 16px;
+    }
+
+    .menu-list{
+        display: flex;
+        flex-direction: row;
+        font-size: 16px;
+        gap: 10px;
+    }
+
+    .menu-list-item-c{
+        display: none;
+    }
+
+}
