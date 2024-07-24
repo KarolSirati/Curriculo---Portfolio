@@ -9,4 +9,4 @@ Este projeto é um website de portfólio pessoal, desenvolvido utilizando HTML, 
 - Seções dedicadas para projetos, habilidades, experiência e contato;
 - Validação de formulário utilizando JavaScript.
 
-Explore este portfólio para conhecer mais sobre o meu trabalho e minhas habilidades!
+Explore este portfólio para conhecer mais sobre o meu trabalho e minhas habilidades, clique neste link: (https://curriculo-portfolio-seven.vercel.app/)
